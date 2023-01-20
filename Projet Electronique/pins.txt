@@ -1,0 +1,7 @@
+lcd(1,2,4,5,6,7),ultrason(12,13),
+clavier(	5/D---->G),
+rifd(49/50,51,52,53),
+fumé (A0--A5,VCC--Vin,Gnd)
+motor (15/16)
+capteur temp (8/9)
+led (9/10)
